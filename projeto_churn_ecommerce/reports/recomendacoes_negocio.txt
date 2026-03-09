@@ -1,0 +1,48 @@
+============================================================
+RECOMENDAÇÕES DE NEGÓCIO - PROJETO CHURN
+============================================================
+
+Modelo Final: XGBoost (Otimizado)
+Recall: 0.771
+AUC-ROC: 0.749
+
+RECOMENDAÇÕES POR SEGMENTO:
+----------------------------------------
+
+Muito Baixo (1142 clientes):
+  • Manter engajamento com newsletter mensal
+  • Oferecer descontos sazonais (aniversário, Black Friday)
+  • Programa de indicação para atrair novos clientes
+  • Coletar depoimentos e avaliações
+
+Baixo (2785 clientes):
+  • Programa de fidelidade com pontos acumulativos
+  • Ofertas personalizadas baseadas em histórico de compras
+  • Email marketing segmentado com recomendações
+  • Acesso antecipado a promoções
+
+Médio (3688 clientes):
+  • Aumentar frequência de contato (de mensal para quinzenal)
+  • Oferecer benefícios exclusivos para retenção
+  • Pesquisa de satisfação direcionada
+  • Cupom de desconto para próxima compra
+
+Alto (2124 clientes):
+  • Contato proativo por telefone ou WhatsApp
+  • Oferta de retenção personalizada (desconto progressivo)
+  • Análise de reclamações e feedbacks recentes
+  • Acompanhamento por customer success
+
+Crítico (261 clientes):
+  • INTERVENÇÃO IMEDIATA - prioridade máxima
+  • Oferta especial de retenção (desconto agressivo - 30% a 50%)
+  • Entrevista de saída para entender motivos
+  • Suporte prioritário com atendente dedicado
+  • Brinde ou benefício exclusivo para recuperação
+
+============================================================
+IMPACTO FINANCEIRO ESTIMADO
+============================================================
+Receita retida anual: R$ 412,713.68
+ROI estimado: 0.65x
+Redução do churn: 6.01 p.p.
