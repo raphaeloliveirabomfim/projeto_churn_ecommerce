@@ -54,6 +54,7 @@ churn-ecommerce/
 ├── requirements.txt
 └── README.md
 ```
+> *O arquivo 'pipeline_final' ficou acima dos 25MB e por isso não está no repositório
 
 ---
 
